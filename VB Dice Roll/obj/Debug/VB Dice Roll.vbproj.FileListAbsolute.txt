@@ -1,0 +1,10 @@
+C:\Users\DWX\Google Drive\DSED\VB\GitHub\VB Dice Roll\VB Dice Roll\bin\Debug\VB Dice Roll.exe.config
+C:\Users\DWX\Google Drive\DSED\VB\GitHub\VB Dice Roll\VB Dice Roll\bin\Debug\VB Dice Roll.exe
+C:\Users\DWX\Google Drive\DSED\VB\GitHub\VB Dice Roll\VB Dice Roll\bin\Debug\VB Dice Roll.pdb
+C:\Users\DWX\Google Drive\DSED\VB\GitHub\VB Dice Roll\VB Dice Roll\bin\Debug\VB Dice Roll.xml
+C:\Users\DWX\Google Drive\DSED\VB\GitHub\VB Dice Roll\VB Dice Roll\obj\Debug\VB_Dice_Roll.Form1.resources
+C:\Users\DWX\Google Drive\DSED\VB\GitHub\VB Dice Roll\VB Dice Roll\obj\Debug\VB_Dice_Roll.Resources.resources
+C:\Users\DWX\Google Drive\DSED\VB\GitHub\VB Dice Roll\VB Dice Roll\obj\Debug\VB Dice Roll.vbproj.GenerateResource.Cache
+C:\Users\DWX\Google Drive\DSED\VB\GitHub\VB Dice Roll\VB Dice Roll\obj\Debug\VB Dice Roll.exe
+C:\Users\DWX\Google Drive\DSED\VB\GitHub\VB Dice Roll\VB Dice Roll\obj\Debug\VB Dice Roll.xml
+C:\Users\DWX\Google Drive\DSED\VB\GitHub\VB Dice Roll\VB Dice Roll\obj\Debug\VB Dice Roll.pdb
